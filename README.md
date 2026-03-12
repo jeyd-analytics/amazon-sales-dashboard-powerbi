@@ -1,38 +1,62 @@
-# amazon-sales-dashboard-powerbi
-Interactive Power BI dashboard analyzing Amazon India sales performance.
-Amazon India Sales Performance Dashboard
+# Amazon India Sales Performance Dashboard
 
-## Overview
-
-This project analyzes Amazon India sales data using Power BI to understand revenue trends, category performance, customer behavior, and geographic distribution of sales.
+## Project Overview
+This project analyzes Amazon India sales data using Power BI to identify trends in revenue, product categories, customer behavior, and regional sales distribution.  
+The goal of this dashboard is to provide a clear overview of business performance and help identify key drivers of sales.
 
 ## Tools Used
-
 - Power BI
-- Excel
+- Microsoft Excel
 
 ## Dashboard Features
+The dashboard includes the following analysis:
 
-- KPI metrics (Revenue, Orders, Average Order Value)
-- Monthly sales trend analysis
-- Category performance comparison
-- Payment method distribution
-- Returns analysis
-- State-wise sales visualization
-- Product and customer insights
+• Key Performance Indicators (KPIs)
+  - Total Revenue
+  - Total Orders
+  - Average Order Value
+  - High Value Orders
 
-## Key Insights
+• Monthly Sales Trend Analysis
 
-- Beauty generates the highest revenue among categories.
-- Electronics and Books show the highest order volumes.
-- Sales peak in July–August indicating seasonal demand.
-- Children’s Books and Perfumes are among the top selling products.
+• Category Performance Comparison
+
+• Payment Method Distribution
+
+• Returns by Category
+
+• State-wise Customer Distribution
+
+• Product Quantity Distribution
+
+• Customer Purchase Frequency
+
+• Top Selling Products
 
 ## Dashboard Preview
 
-<img width="359" height="368" alt="amazon_sales_dashboard_page1" src="https://github.com/user-attachments/assets/3c0d9706-7d05-46ff-a5db-37f24149ec81" />
+### Sales Performance Overview
 
+<img width="359" height="368" alt="dashboard_overview" src="https://github.com/user-attachments/assets/fce127b9-552f-4c63-aa98-9f068423a6b4" />
 
-<img width="542" height="371" alt="amazon_sale_dashboard_page2" src="https://github.com/user-attachments/assets/f1847908-bce5-4096-b2a2-c12d51045931" />
+### Product and Customer Insights
 
+<img width="542" height="371" alt="dashboard_product_insights" src="https://github.com/user-attachments/assets/315e2816-08ad-42db-b764-630ee69d7638" />
 
+## Key Insights
+• Beauty category generates the highest revenue among all product categories.
+
+• Electronics and Books have the highest number of orders.
+
+• Sales show a noticeable increase during mid-year months.
+
+• Children’s Books and Perfume are among the top-selling products.
+
+• Customer purchases are fairly distributed across multiple Indian states.
+
+• Sikkim records the highest number of orders in the dataset despite having a smaller population compared to other states. This may indicate higher e-commerce adoption, more frequent purchases per customer, or sampling patterns within the dataset.
+
+## Files in This Repository
+- Power BI Dashboard (.pbix)
+- Cleaned Dataset (.xlsx)
+- Dashboard Screenshots

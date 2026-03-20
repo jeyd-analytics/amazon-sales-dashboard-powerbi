@@ -44,17 +44,17 @@ The dashboard includes the following analysis:
 <img width="542" height="371" alt="dashboard_product_insights" src="https://github.com/user-attachments/assets/315e2816-08ad-42db-b764-630ee69d7638" />
 
 ## Key Insights
-• Beauty category generates the highest revenue among all product categories.
+1. The platform generated $661.92M revenue across 15K orders, with an average order value of $74.54K, indicating mid-to-high value transactions.
+2. Sales exhibit seasonal trends, peaking in July–August and dipping in February, reflecting cyclical customer demand.
+3. Beauty category generates the highest revenue, with Electronics and Books also contributing significantly, showing balanced category performance.
+4. Product demand is evenly distributed, with top categories each selling around 9K units, indicating consistent consumption patterns.
+5. Payment methods are evenly utilized (~24–25% each), showing no dependency on a single payment channel.
+6. Books and Electronics have the highest return rates, highlighting potential issues in product expectations or quality.
+7. Top-performing states include Chhattisgarh, Rajasthan, and Sikkim, contributing significantly to overall revenue.
+8. Children’s Books and Perfume are the top-selling products, followed by electronics and lifestyle items.
+9. Customer behavior shows a majority of mid-frequency buyers, with a smaller segment of high-frequency customers, indicating potential for loyalty programs.
 
-• Electronics and Books have the highest number of orders.
-
-• Sales show a noticeable increase during mid-year months.
-
-• Children’s Books and Perfume are among the top-selling products.
-
-• Customer purchases are fairly distributed across multiple Indian states.
-
-• Sikkim records the highest number of orders in the dataset despite having a smaller population compared to other states. This may indicate higher e-commerce adoption, more frequent purchases per customer, or sampling patterns within the dataset.
+These insights highlight key revenue drivers, customer behavior patterns, and optimization opportunities across regions, categories, and pricing strategies, enabling data-driven decision-making.
 
 ## Files in This Repository
 - Power BI Dashboard (.pbix)
